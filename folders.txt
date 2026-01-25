@@ -1,0 +1,7 @@
+apps/
+docker/
+k8k/
+pipelines/
+scripts/
+infra/
+docs/
